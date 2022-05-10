@@ -1,6 +1,6 @@
 <?php
 
-echo Calculator!;
+echo "Calculator!";
 
 function add($a,$b){echo $a + $b;}
 function minus($a,$b){echo (a>b) ?$a - $b:$b-$a;}
